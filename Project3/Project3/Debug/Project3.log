@@ -1,0 +1,14 @@
+﻿Build started 01/28/2014 6:46:35 AM.
+     1>Project "C:\Users\Lawrence\Desktop\Project3\Project3\Project3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Map.cpp testMap.cpp
+         testMap.cpp
+     1>c:\users\lawrence\desktop\project3\project3\testmap.cpp(11): error C2374: 'm6' : redefinition; multiple initialization
+                 c:\users\lawrence\desktop\project3\project3\testmap.cpp(6) : see declaration of 'm6'
+         Map.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Lawrence\Desktop\Project3\Project3\Project3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.91
